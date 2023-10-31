@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698727747 source:c:\users\naima\documents\transformation\main.cpp
+	"opencv2/highgui/highgui.hpp"
+	<opencv2/opencv.hpp>
+	<iostream>
+	<vector>
+
